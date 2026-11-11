@@ -40,3 +40,6 @@ package.json.bak
 .claude
 .cursor
 .gemini
+
+# segredos (gerenciados no Infisical)
+!.env.example
